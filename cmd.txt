@@ -1,0 +1,4 @@
+./Examples/Monocular/mono_tum Vocabulary/ORBvoc.txt Examples/Monocular/TUM_phone.yaml ../data1/
+
+
+1584792784.403922 1584792968.012194 0.888889
